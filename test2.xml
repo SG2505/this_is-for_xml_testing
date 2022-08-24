@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBurgers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <burgers>
+    <Name>big mac</Name>
+    <Weight>150gm</Weight>
+    <Price>$10</Price>
+  </burgers>
+  <burgers>
+    <Name>mac big</Name>
+    <Weight>150gm</Weight>
+    <Price>$20</Price>
+  </burgers>
+  <burgers>
+    <Name>chicken mac</Name>
+    <Weight>150gm</Weight>
+    <Price>$10</Price>
+  </burgers>
+</ArrayOfBurgers>

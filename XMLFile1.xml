@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<burgers>
+	<burger category="spicy">
+		<name>jalapeno burger</name>
+		<weight>200gm</weight>
+		<price>$15</price>
+	</burger>
+
+	<burger category="spicy">
+		<name>mexican</name>
+		<weight>150gm</weight>
+		<price>$12.5</price>
+	</burger>
+
+	<burger category="spicy">
+		<name>flame</name>
+		<weight>200gm</weight>
+		<price>$12.5</price>
+	</burger>
+
+	<burger category="regular">
+		<name>old school</name>
+		<weight>150gm</weight>
+		<price>$10</price>
+	</burger>
+
+	<burger category="regular">
+		<name>swiss mushroom burger</name>
+		<weight>200gm</weight>
+		<price>$20</price>
+	</burger>
+
+	<burger category="regular">
+		<name>titan</name>
+		<weight>400gm</weight>
+		<price>$25</price>
+	</burger>
+</burgers>
